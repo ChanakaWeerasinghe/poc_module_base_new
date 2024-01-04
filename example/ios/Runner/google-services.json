@@ -1,0 +1,226 @@
+{
+  "project_info": {
+    "project_number": "476448138919",
+    "project_id": "ecebuana-4a925",
+    "storage_bucket": "ecebuana-4a925.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476448138919:android:ac3a35d3754a1054f6dd82",
+        "android_client_info": {
+          "package_name": "com.ecebuana.ewallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476448138919-dt707pknsa0ksia29m9bnvum87ffu0v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwDNenjRMKjv3tn5ZRl_DQp4-n1V6fDFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476448138919-dt707pknsa0ksia29m9bnvum87ffu0v0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "476448138919-14pchsn3dp37mbm0cm05vhsaer9tctmn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ncvi.eCebuana2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476448138919:android:3b80649c037696d1f6dd82",
+        "android_client_info": {
+          "package_name": "com.ecebuanadev.ewallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476448138919-dt707pknsa0ksia29m9bnvum87ffu0v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwDNenjRMKjv3tn5ZRl_DQp4-n1V6fDFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476448138919-dt707pknsa0ksia29m9bnvum87ffu0v0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "476448138919-14pchsn3dp37mbm0cm05vhsaer9tctmn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ncvi.eCebuana2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476448138919:android:88ecfae00cd86a59f6dd82",
+        "android_client_info": {
+          "package_name": "com.ecebuanaprod.ewallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476448138919-dt707pknsa0ksia29m9bnvum87ffu0v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwDNenjRMKjv3tn5ZRl_DQp4-n1V6fDFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476448138919-dt707pknsa0ksia29m9bnvum87ffu0v0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "476448138919-14pchsn3dp37mbm0cm05vhsaer9tctmn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ncvi.eCebuana2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476448138919:android:88d056695aa9fbf8f6dd82",
+        "android_client_info": {
+          "package_name": "com.ecebuanaqa.ewallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476448138919-dt707pknsa0ksia29m9bnvum87ffu0v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwDNenjRMKjv3tn5ZRl_DQp4-n1V6fDFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476448138919-dt707pknsa0ksia29m9bnvum87ffu0v0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "476448138919-14pchsn3dp37mbm0cm05vhsaer9tctmn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ncvi.eCebuana2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476448138919:android:841c7efd614efc14f6dd82",
+        "android_client_info": {
+          "package_name": "com.ecebuanauat.ewallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476448138919-dt707pknsa0ksia29m9bnvum87ffu0v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwDNenjRMKjv3tn5ZRl_DQp4-n1V6fDFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476448138919-dt707pknsa0ksia29m9bnvum87ffu0v0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "476448138919-14pchsn3dp37mbm0cm05vhsaer9tctmn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ncvi.eCebuana2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476448138919:android:ace91753946016f7f6dd82",
+        "android_client_info": {
+          "package_name": "com.hitachi.wallet.qa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476448138919-dt707pknsa0ksia29m9bnvum87ffu0v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwDNenjRMKjv3tn5ZRl_DQp4-n1V6fDFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476448138919-dt707pknsa0ksia29m9bnvum87ffu0v0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "476448138919-14pchsn3dp37mbm0cm05vhsaer9tctmn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ncvi.eCebuana2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
