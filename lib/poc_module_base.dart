@@ -5,6 +5,7 @@ import 'firebase_remote_config_repository.dart';
 import 'poc_module_base_platform_interface.dart';
 export 'package:firebase_core/firebase_core.dart';
 export 'package:firebase_remote_config/firebase_remote_config.dart';
+export 'package:flutter_bloc/flutter_bloc.dart';
 
 class PocModuleBase {
   Future<String?> getPlatformVersion() {
